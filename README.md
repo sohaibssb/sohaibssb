@@ -46,28 +46,22 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sohaibssb&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-
 
 ---
 
-
-
-
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sohaibssb&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibssb&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
- 
-
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sohaibssb&style=for-the-badge&color=orange" alt="Profile views"/>
 </div>
 
+<!-- Alternative to the snake animation -->
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohaibssb&theme=github" alt="GitHub Activity Graph"/>
 </p>
-
 

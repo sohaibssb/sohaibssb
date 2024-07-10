@@ -59,8 +59,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=sohaibssb&style=for-the-badge&color=orange" alt="Profile views"/>
 </div>
-
 <p align="center">
-  <img src="https://github.com/sohaibssb/sohaibssb/raw/main/output/github-snake.svg" alt="snake animation"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 

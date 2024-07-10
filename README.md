@@ -31,9 +31,9 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 ### Environments, Testing and Others:
 
-| Node.js | Git | Docker | Postman | MongoDB | Microservices |
+| Node.js | Git | Docker | Postman | MongoDB | Microservices | SAP |
 |----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/29349720?s=200&v=4" title="Microservices" alt="Microservices" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/29349720?s=200&v=4" title="Microservices" alt="Microservices" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" title="SAP" alt="SAP" width="55" height="55"/> |
 
 ### Operating Systems:
 

@@ -60,8 +60,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
   <img src="https://komarev.com/ghpvc/?username=sohaibssb&style=for-the-badge&color=orange" alt="Profile views"/>
 </div>
 
-<!-- Alternative to the snake animation -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohaibssb&theme=github" alt="GitHub Activity Graph"/>
+  <img src="https://github.com/sohaibssb/sohaibssb/raw/main/dist/github-snake.svg" alt="snake animation"/>
 </p>
 

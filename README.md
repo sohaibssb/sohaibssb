@@ -5,7 +5,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 ### 🔭 I’m currently working on: 
 
-- Building E-Commerce App [NodeJs](https://github.com/sohaibssb/E-commerce-App)
+- Building [NodeJs E-Commerce App REST API with MongoDB](https://github.com/sohaibssb/E-commerce-App)
 
 ## Languages and Tools 
 <div>
@@ -17,40 +17,30 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> |
 
 
-### Best frameworks and main libraries for Python3:
+### Best frameworks and libraries
 
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
+| Flask | Django | Express | React | Numpy | Pandas | Sklearn |
+|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original.svg" title="Sklearn" alt="Sklearn" width="55" height="55"/> | 
+
+### Data Manipulation & Visualization
+
+| Jupyter | Postgres | SQLite | Matplotlib |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> |
+
+### Environments, Testing, Other
+
+| Node.js | Git | Docker | Postman | MongoDB | Microservices |
 |----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microservices/microservices-original.svg" title="Microservices" alt="Microservices" width="55" height="55"/> |
 
+### Operating Systems
 
+| Linux | Ubuntu |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
-### My tools for Data Manipulation & Visualisation:
-
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
-
-  
-### Environments, Testing, Other:
-
-| nodejs | Git | Docker | Pytest | Swagger | Postman | VBox | HardHat |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|
-
-
-### OS:
-
-| Linux | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
-
-### Tools for CTF's
- 
-| Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
-|----------|----------|----------|----------|----------|
-|<img src="assets/meta.png" alt="msf" width="85" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
 
 ---
 

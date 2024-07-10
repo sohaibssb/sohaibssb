@@ -1,9 +1,8 @@
 ### About Me:   
- 
+
 I'm a dedicated software engineer with a focus on backend development. My expertise lies in building scalable microservices, managing databases, and implementing robust backend architectures. I thrive on solving complex problems and optimizing systems for efficiency and performance.
 
-Currently, I'm delving into the realms of distributed systems and artificial intelligence, where I'm actively engaged in developing innovative solutions using technologies like Python, Flask, NodeJs, and Docker. Additionally, I have a strong foundation in classical algorithms and possess the requisite mathematical prowess.
-
+Currently, I'm delving into the realms of distributed systems and artificial intelligence, where I'm actively engaged in developing innovative solutions using technologies like Python, Flask, Docker, and Kubernetes. Additionally, I have a strong foundation in classical algorithms and possess the requisite mathematical prowess.
 
 ### 🔭 I’m currently working on: 
 
@@ -43,9 +42,7 @@ Currently, I'm delving into the realms of distributed systems and artificial int
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
-
 ---
-
   
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=sohaibssb&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">

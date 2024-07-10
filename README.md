@@ -61,6 +61,6 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 </div>
 
 <p align="center">
-  <img src="https://github.com/sohaibssb/sohaibssb/raw/main/dist/github-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/sohaibssb/sohaibssb/raw/main/output/github-snake.svg" alt="snake animation"/>
 </p>
 

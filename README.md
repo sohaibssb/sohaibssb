@@ -6,7 +6,7 @@ Currently, I'm delving into the realms of distributed systems and artificial int
 
 ### 🔭 I’m currently working on: 
 
-- Building [NodeJs E-Commerce App REST API with MongoDB](https://github.com/sohaibssb/E-commerce-App)
+- Building Backend service, [NodeJs E-Commerce App REST API with MongoDB](https://github.com/sohaibssb/E-commerce-App)
 
 ## Languages and Tools 
 <div>

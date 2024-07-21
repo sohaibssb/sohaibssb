@@ -8,6 +8,8 @@ Currently, I'm delving into the realms of distributed systems and artificial int
 
 - Building WebStore, with using [Angular, NodeJs, TypeScript and Stripe Integration](https://github.com/sohaibssb/WebStore-with-Angular-NodeJs-TypeScript-and-Stripe)
 
+- Honing my skills by practicing and solving algorithm and data structure problems on LeetCode. [LeetCode - Solutions](https://github.com/sohaibssb/LeetCode-Solutions)
+
 
 ## Languages and Tools 
 <div>

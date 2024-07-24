@@ -10,6 +10,10 @@ Currently, I'm delving into the realms of distributed systems and artificial int
 
 - Honing my skills by practicing and solving algorithm and data structure problems on LeetCode. [LeetCode - Solutions](https://github.com/sohaibssb/LeetCode-Solutions)
 
+- Learning and practicing Perl and CGI by building a web-based task manager application. [Perl-CGI-Task-Management-App](https://github.com/sohaibssb/Perl-CGI-Task-Management-App)
+
+
+
 
 ## Languages and Tools 
 <div>

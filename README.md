@@ -2,17 +2,13 @@
 
 I'm a dedicated software engineer with a focus on backend development. My expertise lies in building scalable microservices, managing databases, and implementing robust backend architectures. I thrive on solving complex problems and optimizing systems for efficiency and performance.
 
-Currently, I'm delving into the realms of distributed systems and artificial intelligence, where I'm actively engaged in developing innovative solutions using technologies like Python, Flask, Docker, and Kubernetes. Additionally, I have a strong foundation in classical algorithms and possess the requisite mathematical prowess.
-
 ### 🔭 I’m currently working on: 
+
+- Building a personal portfolio website with using Node JS , Express and React [Sohaib-Portfolio-Website](https://github.com/sohaibssb/Sohaib-Portfolio-Website)
 
 - Building WebStore, with using [Angular, NodeJs, TypeScript and Stripe Integration](https://github.com/sohaibssb/WebStore-with-Angular-NodeJs-TypeScript-and-Stripe)
 
-- Honing my skills by practicing and solving algorithm and data structure problems on LeetCode. [LeetCode - Solutions](https://github.com/sohaibssb/LeetCode-Solutions)
-
-- Learning and practicing Perl and CGI by building a web-based task manager application. [Perl-CGI-Task-Management-App](https://github.com/sohaibssb/Perl-CGI-Task-Management-App)
-
-
+- Honing my skills by practicing and solving algorithm and data structure problems on LeetCode. [LeetCode-Solutions](https://github.com/sohaibssb/LeetCode-Solutions)
 
 
 ## Languages and Tools 
@@ -27,9 +23,10 @@ Currently, I'm delving into the realms of distributed systems and artificial int
 
 ### Best frameworks and libraries:
 
-| Flask | Django | Express | React | Numpy | Pandas | Sklearn |
-|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" alt="Sklearn" width="55" height="55"/> | 
+| Flask | Django | Express | React | Angular | Numpy | Pandas | Sklearn |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Sklearn" alt="Sklearn" width="55" height="55"/> |
+
 
 ### Data Manipulation & Visualization:
 

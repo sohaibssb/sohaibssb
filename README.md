@@ -4,7 +4,7 @@ I'm a dedicated software engineer with a focus on backend development. My expert
 
 ### 🔭 I’m currently working on: 
 
-- Building a personal portfolio website with using Node JS , Express and React [Sohaib-Portfolio-Website](https://github.com/sohaibssb/Sohaib-Portfolio-Website)
+- Building a personal portfolio website with using Django [Sohaib-Portfolio-Website](https://github.com/sohaibssb/Sohaib-Portfolio-Website)
 
 - Building WebStore, with using [Angular, NodeJs, TypeScript and Stripe Integration](https://github.com/sohaibssb/WebStore-with-Angular-NodeJs-TypeScript-and-Stripe)
 

@@ -1,6 +1,6 @@
 ### About Me:   
 
-I'm a dedicated software engineer with a focus on backend development. My expertise lies in building scalable microservices, managing databases, and implementing robust backend architectures. I thrive on solving complex problems and optimizing systems for efficiency and performance.
+I'm a dedicated software engineer with experience in backend, frontend, and machine learning projects. My expertise lies in developing scalable microservices, managing complex databases, and creating AI-driven applications. I thrive on solving intricate problems and optimizing systems for maximum efficiency and performance.
 
 ### 🔭 I’m currently working on: 
 

@@ -4,10 +4,6 @@ I'm a dedicated software engineer with experience in backend, frontend, and mach
 
 ### 🔭 I’m currently working on: 
 
-- Building a personal portfolio website with using Django [Sohaib-Portfolio-Website](https://github.com/sohaibssb/Sohaib-Portfolio-Website)
-
-- Building WebStore, with using [Angular, NodeJs, TypeScript and Stripe Integration](https://github.com/sohaibssb/WebStore-with-Angular-NodeJs-TypeScript-and-Stripe)
-
 - Honing my skills by practicing and solving algorithm and data structure problems on LeetCode. [LeetCode-Solutions](https://github.com/sohaibssb/LeetCode-Solutions)
 
 

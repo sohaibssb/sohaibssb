@@ -4,6 +4,8 @@ I'm a dedicated software engineer with experience in backend, frontend, and mach
 
 ### 🔭 I’m currently working on: 
 
+- Building expertise in SQL by refining query design and database optimization techniques. [SQL-Python-Practice](https://github.com/sohaibssb/SQL-Python-Practice)
+
 - Honing my skills by practicing and solving algorithm and data structure problems on LeetCode. [LeetCode-Solutions](https://github.com/sohaibssb/LeetCode-Solutions)
 
 
